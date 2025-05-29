@@ -1,0 +1,13 @@
+type: environment.insomnia.rest/5.0
+name: INS-542
+meta:
+  id: wrk_423186fd81304a18bd2e1b0cd5526ee6
+  created: 1748541745593
+  modified: 1748541745593
+environments:
+  name: Base Environment
+  meta:
+    id: env_419c82442e594bd6a7976c17bca3a1db
+    created: 1748541745595
+    modified: 1748541745595
+    isPrivate: false
